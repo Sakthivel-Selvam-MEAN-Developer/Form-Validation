@@ -91,7 +91,7 @@ const SignUp = () => {
     return (
         <div className="container signup d-flex justify-content-center align-items-center">
             <div className="template-image">
-                <img src="/signup.svg" alt="image" />
+                <img src="./signup.svg" alt="image" />
             </div>
             <form className="rounded ps-3 pe-3 pb-3">
                 <div className="title m-3 mt-4 mb-4 text-center">
